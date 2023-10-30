@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lapetite-choppe/static/css/main.2ae5d61c.css",
+    "main.js": "/lapetite-choppe/static/js/main.a6d0425d.js",
+    "static/js/787.7634d8ee.chunk.js": "/lapetite-choppe/static/js/787.7634d8ee.chunk.js",
+    "static/media/interieur_unchecked.png": "/lapetite-choppe/static/media/interieur_unchecked.b3fc74dc1117723a848f.png",
+    "static/media/etage_unchecked.png": "/lapetite-choppe/static/media/etage_unchecked.0e84638cd5c4729391ad.png",
+    "static/media/terrasse_unchecked.png": "/lapetite-choppe/static/media/terrasse_unchecked.b3f624924e276102620f.png",
+    "static/media/fenetres_unchecked.png": "/lapetite-choppe/static/media/fenetres_unchecked.1da53394b0097f3f6795.png",
+    "static/media/fond-accueil.jpg": "/lapetite-choppe/static/media/fond-accueil.a5cea006b2dbd83a80e8.jpg",
+    "static/media/logo_col.svg": "/lapetite-choppe/static/media/logo_col.c707e0a3952291a98c65abed841e40b5.svg",
+    "static/media/signature.svg": "/lapetite-choppe/static/media/signature.a50e79e353d993ebca65804338fe524e.svg",
+    "static/media/logo_min_col.svg": "/lapetite-choppe/static/media/logo_min_col.ab6220a0ab0e1a7157cc2def696d7063.svg",
+    "index.html": "/lapetite-choppe/index.html",
+    "main.2ae5d61c.css.map": "/lapetite-choppe/static/css/main.2ae5d61c.css.map",
+    "main.a6d0425d.js.map": "/lapetite-choppe/static/js/main.a6d0425d.js.map",
+    "787.7634d8ee.chunk.js.map": "/lapetite-choppe/static/js/787.7634d8ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ae5d61c.css",
+    "static/js/main.a6d0425d.js"
+  ]
+}
